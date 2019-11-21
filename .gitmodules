@@ -1,0 +1,6 @@
+[submodule "webchatABCI"]
+	path = webchatABCI
+	url = git@github.com:phirasit/webchatABCI.git
+[submodule "webchat_parallel_frontend_socket"]
+	path = webchat_parallel_frontend_socket
+	url = git@github.com:phirasit/webchat_parallel_frontend_socket.git
